@@ -1,0 +1,45 @@
+<html>
+<head>
+<title> My web site </title>
+<body  bgcolor="red">
+<p> <i> jjjjjjjjjjjj<sub>jjjjjjjjjjj</sub> jjjjjjjjjjjjjjj<sup> jjjjjjjjjjjj</sup>jj</i> </p>
+<br>
+<h1> <center > <b> MCBS </b> </center> </h1>
+<br>
+<h2 align= "right"> <del> MCBs </del></h2>
+<br>
+<h3> <font color="blue"> MCBS </h3></font>
+<hr>
+<ul type ="disc">
+<li> a </li>
+<li> b </li>
+</ul>
+<br>
+<ol type ="a"  start = 4>
+<li> a </li>
+<li>b </li>
+<ul type ="square">
+<li> bbb </li>
+</ul>
+</ol>
+<br>
+<img src="a.jpg">
+<br>
+<a href="try.html"> back </a>
+<a href="www.mcbs.edu.om"> next </a>
+<br>
+<form method ="get" action ="try.html">
+<input type ="submit" value ="go to main page">
+</form>
+<br>
+<table border ="2">
+<tr> 
+<td > a </td>
+</tr>
+<tr> 
+<td > b </td>
+</tr>
+</table>
+</body>
+</head>
+</title>
